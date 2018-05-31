@@ -19,7 +19,7 @@ Link: https://www.kaggle.com/c/imaterialist-challenge-furniture-2018
 * models trained at [model](https://pan.baidu.com/s/1bA353cQcfm2jrv40G4n0aA)
 
 # Related Projects
-- [skrypka/imaterialist-furniture-2018] : winner of imaterialist furniture 2018
+- [skrypka][basecode] : winner of imaterialist furniture 2018
 
 
-[skrypka/imaterialist-furniture-2018](https://github.com/skrypka/imaterialist-furniture-2018)
+[basecode]:https://github.com/skrypka/imaterialist-furniture-2018
